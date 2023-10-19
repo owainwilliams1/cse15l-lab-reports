@@ -1,3 +1,4 @@
+```java
 import java.io.IOException;
 import java.net.URI;
 import java.util.Map;
@@ -59,3 +60,4 @@ class SearchEngine {
         Server.start(port, new Handler());
     }
 }
+```

@@ -1,4 +1,4 @@
-## Lab 1
+# Lab 1
 
 ![Image 1](assets/Lab1-1.png)
 1) Changes directory to the home directory, not an error

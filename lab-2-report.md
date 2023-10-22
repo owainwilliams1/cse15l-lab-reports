@@ -1,10 +1,6 @@
-## Lab 2
+# Lab 2
 
-### SSH Command
-
-```bash
-ssh cs15lfa23rz@ieng6
-```
+`cs15lfa23rz@ieng6`
 
 ### Part 1
 
